@@ -1,0 +1,17 @@
+  
+  Student ID		Pass
+  
+  sanketp			sabc
+  
+  Pranavs			sdef
+  
+  mohitk			sxyz
+  
+  
+  Teacher ID		pass
+  
+  sabc				sabc
+  
+  sdef				sdef
+
+  sxyz				sxyz								
